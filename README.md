@@ -1,7 +1,7 @@
 # aic-2018
 
 
-Website for the event [Apogee Innovation Challenge](https://bits-apogee.org/aic/) held during [APOGEE (2018)](https://bits-apogee.org/) - cultural festival of [BITS Pilani, Pilani Campus](http://www.bits-pilani.ac.in/)
+Website for the event [Apogee Innovation Challenge](https://bits-apogee.org/aic/) held during [APOGEE (2018)](https://bits-apogee.org/) - technical festival of [BITS Pilani, Pilani Campus](http://www.bits-pilani.ac.in/)
 
 ### Contributors:-
 - Frontend
